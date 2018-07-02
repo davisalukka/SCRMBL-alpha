@@ -1,5 +1,5 @@
 # load text 
-filename = 'metamorphosis_clean.txt'
+filename = 'test_suit.txt'
 file = open(filename, 'rt')
 text = file.read()
 file.close()
